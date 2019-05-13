@@ -1,0 +1,82 @@
+regex.o: regex.c ../config.h \
+ /usr/lib/gcc/i686-pc-msys/4.9.2/include/stddef.h /usr/include/wchar.h \
+ /usr/include/_ansi.h /usr/include/newlib.h /usr/include/sys/config.h \
+ /usr/include/machine/ieeefp.h /usr/include/sys/features.h \
+ /usr/include/cygwin/config.h /usr/include/sys/reent.h \
+ /usr/include/sys/_types.h /usr/include/machine/_types.h \
+ /usr/include/machine/_default_types.h /usr/include/sys/lock.h \
+ /usr/lib/gcc/i686-pc-msys/4.9.2/include/stdarg.h \
+ /usr/include/sys/cdefs.h /usr/include/wctype.h /usr/include/stdlib.h \
+ /usr/include/_ansi.h /usr/include/machine/stdlib.h /usr/include/alloca.h \
+ /usr/include/cygwin/stdlib.h /usr/include/cygwin/wait.h \
+ /usr/include/string.h /usr/include/sys/string.h \
+ /usr/lib/gcc/i686-pc-msys/4.9.2/include-fixed/limits.h \
+ /usr/lib/gcc/i686-pc-msys/4.9.2/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/features.h \
+ /usr/include/bits/wordsize.h regex.h posix/regex.h /usr/include/ctype.h
+
+../config.h:
+
+/usr/lib/gcc/i686-pc-msys/4.9.2/include/stddef.h:
+
+/usr/include/wchar.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/newlib.h:
+
+/usr/include/sys/config.h:
+
+/usr/include/machine/ieeefp.h:
+
+/usr/include/sys/features.h:
+
+/usr/include/cygwin/config.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/machine/_default_types.h:
+
+/usr/include/sys/lock.h:
+
+/usr/lib/gcc/i686-pc-msys/4.9.2/include/stdarg.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/wctype.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/machine/stdlib.h:
+
+/usr/include/alloca.h:
+
+/usr/include/cygwin/stdlib.h:
+
+/usr/include/cygwin/wait.h:
+
+/usr/include/string.h:
+
+/usr/include/sys/string.h:
+
+/usr/lib/gcc/i686-pc-msys/4.9.2/include-fixed/limits.h:
+
+/usr/lib/gcc/i686-pc-msys/4.9.2/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/wordsize.h:
+
+regex.h:
+
+posix/regex.h:
+
+/usr/include/ctype.h:
